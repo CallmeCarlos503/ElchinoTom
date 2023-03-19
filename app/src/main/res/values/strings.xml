@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">""</string>
+    <!-- Textos de la pantalla principal -->
+    <string name="titulo_restaurante">Restaurante Chino</string>
+    <string name="boton_entradas">Entradas</string>
+    <string name="boton_platos_principales">Platos principales</string>
+    <string name="boton_postres">Postres</string>
+    <string name="boton_bebidas">Bebidas</string>
+
+    <!-- Textos de la pantalla de entradas -->
+    <string name="titulo_entradas">Entradas</string>
+    <string name="descripcion_entradas">Aquí encontrarás nuestras deliciosas entradas:</string>
+    <string name="nombre_entrada_1">Rollos de primavera</string>
+    <string name="descripcion_entrada_1">Crujientes rollos rellenos de verduras y carne de cerdo.</string>
+    <string name="precio_entrada_1">$5.00</string>
+    <string name="nombre_entrada_2">Empanadillas al vapor</string>
+    <string name="descripcion_entrada_2">Deliciosas empanadillas rellenas de carne y verduras, cocidas al vapor.</string>
+    <string name="precio_entrada_2">$4.50</string>
+
+    <!-- Textos de la pantalla de platos principales -->
+    <string name="titulo_platos_principales">Platos principales</string>
+    <string name="descripcion_platos_principales">Aquí encontrarás nuestros deliciosos platos principales:</string>
+    <string name="nombre_plato_principal_1">Pollo agridulce</string>
+    <string name="descripcion_plato_principal_1">Trozos de pollo frito, cubiertos con una salsa agridulce y acompañados de arroz blanco.</string>
+    <string name="precio_plato_principal_1">$8.00</string>
+    <string name="nombre_plato_principal_2">Cerdo con verduras</string>
+    <string name="descripcion_plato_principal_2">Trozos de cerdo salteados con verduras y una salsa de soja, servidos con arroz blanco.</string>
+    <string name="precio_plato_principal_2">$9.00</string>
+
+    <!-- Textos de la pantalla de postres -->
+    <string name="titulo_postres">Postres</string>
+    <string name="descripcion_postres">Aquí encontrarás nuestros deliciosos postres:</string>
+    <string name="nombre_postre_1">Flan de coco</string>
+    <string name="descripcion_postre_1">Un suave y cremoso flan, con un toque de coco.</string>
+    <string name="precio_postre_1">$3.00</string>
+    <string name="nombre_postre_2">Helado de té verde</string>
+    <string name="descripcion_postre_2">Un refrescante helado, con un sabor dulce y ligeramente amargo.</string>
+    <string name="precio_postre_2">$4.00</string>
+
+    <!-- Textos de la pantalla de bebidas -->
+    <string name="titulo_bebidas">Bebidas</string>
+    <string name="descripcion_bebidas">Aquí encontrarás nuestras refrescantes bebidas:</string>
+    <string name="nombre_bebida_1">Té de jazmín</string>
+    <string name="descripcion_bebida_1">Un té suave y fragante, con un sabor floral y delicado.</string>
+    <string name="precio_bebida_1">$2.50</string>
+    <string name="nombre_bebida_2">Sake</string>
+    <string name="descripcion_bebida_2">Una bebida alcohólica japonesa, hecha a partir de arroz fermentado.</string>
+    <string name="precio_bebida_2">$6.00</string>
+    <string name="logo_restaurante">logo_restaurante</string>
 </resources>
